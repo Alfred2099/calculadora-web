@@ -1,0 +1,31 @@
+body {
+    background-color: darkslategrey;  
+}
+
+button {
+    height: 50px;
+  width: 50px;
+  background-color: green;
+  border-radius: 25px;
+  }
+
+  button:hover {
+    background-color: yellow;
+  }
+  
+  #botonRespuesta {
+    background-color: green;
+    border-radius: 25px;
+  }
+  
+  #botonRespuesta:hover {
+    background-color: yellow;
+  }
+  #botonBorrar {
+    background-color: green;
+    border-radius: 25px;
+  }
+  
+  #botonBorrar:hover {
+    background-color: yellow;
+  }
